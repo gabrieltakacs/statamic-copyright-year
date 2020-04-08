@@ -1,0 +1,7 @@
+fields:
+  copyright_year:
+    type: text
+    width: 75
+    display: 'Copyright Year'
+    instructions: 'Copyright year displayed in footer. If copyright year is equal to current year, single value will be displayed as `2020`. If copyright year is in past, range of years is displayed, for example `2019-2020`.'
+    validate: 'date_format:Y'
