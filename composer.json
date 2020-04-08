@@ -1,5 +1,14 @@
 {
     "name": "gabrieltakacs/copyrightyear",
-    "require": {
-    }
+    "description": "Format copyright year to display in footer for Statamic 2 websites.",
+    "homepage": "https://github.com/gabrieltakacs/statamic-copyright-year",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ing. Gabriel Takács",
+            "email": "gabriel.takacs@takacs-it.com",
+            "homepage": "https://www.takacs-it.com",
+            "role": "Developer"
+        }
+    ]
 }
