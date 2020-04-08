@@ -1,5 +1,5 @@
 name: CopyrightYear
-version: '1.0'
+version: '1.0.0'
 description: 'Format copyright year to display in footer.'
 url: https://github.com/gabrieltakacs/statamic-copyright-year
 developer: 'Ing. Gabriel Takács'
