@@ -1,5 +1,7 @@
 # Copyright year formatter addon for statamic v2
 
+[![Statamic 2](https://img.shields.io/badge/Statamic-2.10-orange.svg)](https://statamic.com)
+
 ## Installation
 Copy addon's source code to project's `site/addons/CopyrightYear` directory.
 
