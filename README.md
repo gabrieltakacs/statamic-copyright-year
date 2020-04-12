@@ -1,7 +1,7 @@
 # Copyright year formatter addon for statamic v2
 
 ## Installation
-Copy addon's source code to project's `site/addons` directory.
+Copy addon's source code to project's `site/addons/CopyrightYear` directory.
 
 ## Usage
 Use `{{ copyright_year }}` tag anywhere in your templates, typically in page footer.
